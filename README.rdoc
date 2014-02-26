@@ -1,0 +1,3 @@
+== Subdomains Example App
+
+See http://richonrails.com/articles/basic-subdomains-in-ruby-on-rails for details
